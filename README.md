@@ -1,4 +1,4 @@
-# PySparkDockerExample
+# SparkDockerExample (Scala)
 Example Spark Submit application using docker-compose.
 
 ## To run:
